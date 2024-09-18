@@ -7,3 +7,5 @@
  classndobj.py - class and objects in python 
  
 patterns.py - patterns
+
+recursion exersices and PyQt5
