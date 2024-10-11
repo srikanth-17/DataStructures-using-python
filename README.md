@@ -9,3 +9,7 @@
 patterns.py - patterns
 
 recursion exersices and PyQt5
+
+strongnum 
+
+tree datastructure
